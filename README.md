@@ -8,7 +8,8 @@
 <br/>
 
 <div align="center">
-
+  
+🌍 i love reading, travelling, and learning about things i didn't know existed <br/>
 🤖 interested in autonomous navigation, robot perception, and making hardware do what it's told <br/>
 🔩 currently building something that involves motors, sensors, and a suspicious amount of zip ties <br/>
 🤝 always down to collaborate on open source robotics projects <br/>
