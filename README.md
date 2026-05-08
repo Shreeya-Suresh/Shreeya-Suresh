@@ -7,10 +7,14 @@
 
 <br/>
 
-- 🤖 interested in autonomous navigation, robot perception, and making hardware do what it's told
-- 🔩 currently building something that involves motors, sensors, and a suspicious amount of zip ties
-- 🤝 always down to collaborate on open source robotics projects
-- 💬 happy to talk student-driven robotics, MIT Tech Team, or the beautiful chaos of competitive robotics
+<div align="center">
+
+🤖 interested in autonomous navigation, robot perception, and making hardware do what it's told <br/>
+🔩 currently building something that involves motors, sensors, and a suspicious amount of zip ties <br/>
+🤝 always down to collaborate on open source robotics projects <br/>
+💬 happy to talk student-driven robotics, MIT Tech Team, or the beautiful chaos of competitive robotics
+
+</div>
 
 <br/>
 
